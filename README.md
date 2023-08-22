@@ -88,18 +88,18 @@ plt.show()
 ###  data
 ![s4](https://github.com/praveenst13/Perform-log-transformation-on-international-airline-passenger-data/assets/118787793/087386e1-93c0-4b22-8c66-265df824f5ab)
 
-### Trend graph
+### Graph for datasets
 
 ![s5](https://github.com/praveenst13/Perform-log-transformation-on-international-airline-passenger-data/assets/118787793/71aaa752-885d-4d3c-9e06-0ed830324d10)
 
-### seasonality graph
 
+### Trend graph
 
 ![s6](https://github.com/praveenst13/Perform-log-transformation-on-international-airline-passenger-data/assets/118787793/f16acb98-34b4-4403-bee0-6ec0574b1056)
-###  log-transformed data
+### seasonality graph
 ![s7](https://github.com/praveenst13/Perform-log-transformation-on-international-airline-passenger-data/assets/118787793/ce508465-5bed-44aa-a9b2-97cc1d162b96)
 
-
+###  log-transformed data
 ![s8](https://github.com/praveenst13/Perform-log-transformation-on-international-airline-passenger-data/assets/118787793/55f5199e-e9b6-4e10-b399-d0dd0d7cd4d9)
 
 
