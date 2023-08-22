@@ -7,11 +7,11 @@ To Write a Program to log transformation on international airline passenger data
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Procedure:
-   1.import the numpy ,pandas and matplotlib.pyplot modules
-   2.read the dataset using pandas
-   3.applying log transformation for dataset
-   4.Plot the trend dataset 
-   5.plot the log transformation data
+    1.import the numpy ,pandas and matplotlib.pyplot modules
+    2.read the dataset using pandas
+    3.applying log transformation for dataset
+    4.Plot the trend dataset 
+    5.plot the log transformation data
 
 
 ## Program:
