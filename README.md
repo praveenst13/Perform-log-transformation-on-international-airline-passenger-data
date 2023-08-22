@@ -74,28 +74,29 @@ plt.show()
 ```
 ## Output:
 
-
+### data.head()
 
 ![s1](https://github.com/praveenst13/Perform-log-transformation-on-international-airline-passenger-data/assets/118787793/9056b407-96a2-4a7b-bc0b-a70cc5c764bd)
-
+### data.tail()
 
 
 ![s2](https://github.com/praveenst13/Perform-log-transformation-on-international-airline-passenger-data/assets/118787793/217dde8b-6f82-422d-aedd-a111a7ad9b4f)
+### data.shape
 
 ![s3](https://github.com/praveenst13/Perform-log-transformation-on-international-airline-passenger-data/assets/118787793/477f6b91-f630-4bac-9bcc-7d612ef580f0)
 
-
+###  data
 ![s4](https://github.com/praveenst13/Perform-log-transformation-on-international-airline-passenger-data/assets/118787793/087386e1-93c0-4b22-8c66-265df824f5ab)
 
-
+### Trend graph
 
 ![s5](https://github.com/praveenst13/Perform-log-transformation-on-international-airline-passenger-data/assets/118787793/71aaa752-885d-4d3c-9e06-0ed830324d10)
 
-
+### seasonality graph
 
 
 ![s6](https://github.com/praveenst13/Perform-log-transformation-on-international-airline-passenger-data/assets/118787793/f16acb98-34b4-4403-bee0-6ec0574b1056)
-
+###  log-transformed data
 ![s7](https://github.com/praveenst13/Perform-log-transformation-on-international-airline-passenger-data/assets/118787793/ce508465-5bed-44aa-a9b2-97cc1d162b96)
 
 
